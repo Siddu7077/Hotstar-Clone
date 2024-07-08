@@ -1,4 +1,4 @@
-****Hotstar Clone************
+****Hotstar Clone****
 
 Welcome to the Hotstar Clone project! This is a realistic clone of the Hotstar streaming platform, designed to provide a visually similar experience on larger devices using HTML, CSS, and Bootstrap.
 
