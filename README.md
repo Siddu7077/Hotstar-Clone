@@ -29,11 +29,16 @@ We welcome contributions to enhance this project! Feel free to submit pull reque
 ## Contact :
 For questions or feedback, please reach out to us at siddeshwarreddy616@gmail.com.
 <br>
+<br>
+<br>
+
 <img width="1440" alt="Screenshot 2024-07-11 at 11 01 04 PM" src="https://github.com/Siddu7077/Hotstar-Clone/assets/150268438/766b45ea-9df6-4651-b63f-252aaec39f60">
+<br>
 <br>
 
 <img width="1440" alt="Screenshot 2024-07-11 at 11 02 35 PM" src="https://github.com/Siddu7077/Hotstar-Clone/assets/150268438/7d6635f7-56fb-4c54-94cb-c7817198c6bf">
-<br>
+<br><br>
+
 
 <img width="1440" alt="Screenshot 2024-07-11 at 11 02 43 PM" src="https://github.com/Siddu7077/Hotstar-Clone/assets/150268438/fe0896c3-4ec2-4a91-904a-dcd6f623e267">
 <br>
